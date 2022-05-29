@@ -1,0 +1,25 @@
+/* READ SECTION */
+.block{
+    position: relative;
+}
+
+.block:hover{
+    transform: scale(1.05);
+    background-color: rgb(15, 128, 226) !important;
+}
+
+
+.surah_number{
+    position: relative;
+    left: -8px;
+    width: 75px;
+    height: 68px;
+    /* border-radius: 50% !important; */
+    text-align: center;
+    line-height: 50px;
+    color: burlywood;
+    font-size: 20px;
+    background-color: #aa076b !important;
+    border-bottom-left-radius: 29px;
+    border-top-left-radius: 29px;
+}
